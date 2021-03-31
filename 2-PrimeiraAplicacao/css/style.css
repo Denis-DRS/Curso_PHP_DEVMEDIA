@@ -61,7 +61,7 @@ h2 {
 .sucesso {
 	padding: 10px;
 	border-collapse: collapse;
-	border-style: ;
+	border-style: none;
 	border-color: #DFF0D8;
 	background-color: #DFF0D8;
 	color: #3C763D;
@@ -71,7 +71,7 @@ h2 {
 .erro {
 	padding: 10px;
 	flex-grow: 1;
-	border-style: ;
+	border-style: none;
 	border-color: #F2DEDE;
 	background-color: #F2DEDE;
 	color: #A94442;
